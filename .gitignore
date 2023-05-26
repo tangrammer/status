@@ -1,0 +1,8 @@
+/.clj-kondo/
+/.lsp/
+/docs/out/
+/docs/.cpcache
+/docs/out
+
+# this will be your projects name
+/docs/demo-clojurescript-gh-pages
